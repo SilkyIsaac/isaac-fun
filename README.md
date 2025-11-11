@@ -1,2 +1,2 @@
-# isaac-fun.github.io
+# isaac-fun
 My personal website
